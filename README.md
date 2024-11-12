@@ -1,4 +1,3 @@
-![Screenshot 2024-11-11 112210](https://github.com/user-attachments/assets/25b550dc-eea1-47c7-a5ff-6b9d53ea8c23)![Screenshot 2024-11-11 112130](https://github.com/user-attachments/assets/edbe948c-623d-478b-bb01-457713e717c9)# LAB-1-ATM
 ## ATM and Banking SYSTEM
 ### AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
